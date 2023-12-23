@@ -1,4 +1,4 @@
-![Uygulama Ekran Görüntüsü]([https://github.com/HabibSako/React-Portfolio-Onepage-Website/blob/master/OnePageWebsite/src/image/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BC1.png](https://unsplash.com/photos/black-framed-eyeglasses-on-white-paper-QYHehJ9Iovs))
+
 <h1 align="center">Merhaba 👋, Ben Habib Şako</h1>
 <h3 align="center">İnönü üniversitesi - Bilgisayar Mühendisliği 4/4</h3>
 
